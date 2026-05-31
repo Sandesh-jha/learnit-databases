@@ -1,3 +1,7 @@
 {
-  "levels": []
+  "levels": [
+    "Subject",
+    "Unit",
+    "Chapter"
+  ]
 }
