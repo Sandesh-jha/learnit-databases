@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "lvl_sy9zandzq",
+      "title": "English",
+      "children": [
+        {
+          "id": "lvl_g2ooerlih",
+          "title": "Grammar",
+          "children": [
+            {
+              "id": "lvl_kf9mu0063",
+              "title": "Best",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "lvl_4k6m3ow3y",
+          "title": "Textbook",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lvl_9b4oibvfo",
+      "title": "Nepali",
+      "children": []
+    },
+    {
+      "id": "lvl_gorg5i1e5",
+      "title": "Math",
+      "children": []
+    },
+    {
+      "id": "lvl_ncr0u646e",
+      "title": "Science",
+      "children": []
+    },
+    {
+      "id": "3c8d62e6-43e6-4204-a063-3f764ec2beb8",
+      "levelIndex": 1,
+      "name": "Sandesh",
+      "parentId": null
+    },
+    {
+      "id": "ebc7044f-d471-445b-82e8-c76b9fcbbc6c",
+      "levelIndex": 2,
+      "name": "kk",
+      "parentId": "3c8d62e6-43e6-4204-a063-3f764ec2beb8"
+    },
+    {
+      "id": "7c9e8f10-3e26-495b-9efc-6950333478e6",
+      "levelIndex": 3,
+      "name": "yes",
+      "parentId": "ebc7044f-d471-445b-82e8-c76b9fcbbc6c"
+    }
+  ]
+}
