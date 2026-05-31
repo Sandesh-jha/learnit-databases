@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "id": "c_9san4fgaa",
+      "name": "Nepal",
+      "programs": [
+        {
+          "id": "p_5g888o4i0",
+          "name": "SEE",
+          "courses": [
+            {
+              "id": "crs_7egkdwnb7",
+              "name": "class-10"
+            }
+          ]
+        },
+        {
+          "id": "p_1c4asgzot",
+          "name": "NEB",
+          "courses": [
+            {
+              "id": "crs_2z5dqueeh",
+              "name": "class-11"
+            },
+            {
+              "id": "crs_ageijlxx3",
+              "name": "class 12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c_kgk4a2xs4",
+      "name": "India",
+      "programs": [
+        {
+          "id": "p_xmfyinbd9",
+          "name": "CBSE",
+          "courses": [
+            {
+              "id": "crs_l0aat8u8u",
+              "name": "class 10"
+            }
+          ]
+        },
+        {
+          "id": "p_o6yore1ta",
+          "name": "SSC",
+          "courses": [
+            {
+              "id": "crs_lashh3b3s",
+              "name": "class11"
+            },
+            {
+              "id": "crs_r2keavinc",
+              "name": "class12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
