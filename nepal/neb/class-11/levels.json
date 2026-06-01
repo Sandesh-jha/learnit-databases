@@ -1,0 +1,25 @@
+{
+  "levelsData": [
+    {
+      "id": "node-1780292652900",
+      "name": "Unit 1",
+      "children": [
+        {
+          "id": "node-1780293159258",
+          "name": "chapter-1",
+          "children": []
+        },
+        {
+          "id": "node-1780293166314",
+          "name": "Chapter-2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node-1780292659160",
+      "name": "Unit 2",
+      "children": []
+    }
+  ]
+}
