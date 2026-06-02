@@ -1,3 +1,240 @@
 {
-  "levelsData": []
+  "levelsData": [
+    {
+      "id": "node-1780388925650",
+      "name": "English",
+      "children": [
+        {
+          "id": "node-1780389290321",
+          "name": "Language Development",
+          "children": [
+            {
+              "id": "node-1780389385218",
+              "name": "1. Education and Humanity",
+              "children": [
+                {
+                  "id": "node-1780389882548",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389405106",
+              "name": "2. Communication",
+              "children": [
+                {
+                  "id": "node-1780389889807",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389423271",
+              "name": "3. Media and Society",
+              "children": [
+                {
+                  "id": "node-1780389896360",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389438391",
+              "name": "4. History and Culture",
+              "children": [
+                {
+                  "id": "node-1780389902890",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389451894",
+              "name": "5. Life and Love",
+              "children": [
+                {
+                  "id": "node-1780389925496",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389468640",
+              "name": "6. Health and Exercise",
+              "children": []
+            },
+            {
+              "id": "node-1780389484512",
+              "name": "7. Ecology and Development",
+              "children": [
+                {
+                  "id": "node-1780389931689",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389506048",
+              "name": "8. Humour and Satire",
+              "children": [
+                {
+                  "id": "node-1780389940386",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389552934",
+              "name": "9. Democracy and Human Rights",
+              "children": [
+                {
+                  "id": "node-1780389946543",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389568134",
+              "name": "10. Home Life and Family Relationship",
+              "children": [
+                {
+                  "id": "node-1780389955467",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389585555",
+              "name": "11. Arts and Creations",
+              "children": [
+                {
+                  "id": "node-1780389961476",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389604189",
+              "name": "12. Fantasy",
+              "children": [
+                {
+                  "id": "node-1780389967356",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389621083",
+              "name": "13. Career and Entrepreneurship",
+              "children": [
+                {
+                  "id": "node-1780389979464",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389633199",
+              "name": "14. Power and Politics",
+              "children": [
+                {
+                  "id": "node-1780389985689",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389651017",
+              "name": "15. War and Peace",
+              "children": [
+                {
+                  "id": "node-1780389992516",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389663211",
+              "name": "16. Critical Thinking",
+              "children": [
+                {
+                  "id": "node-1780390002853",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389682821",
+              "name": "17. Globalisation and Diaspora",
+              "children": [
+                {
+                  "id": "node-1780390010975",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389701636",
+              "name": "18. Immigration and Identity",
+              "children": [
+                {
+                  "id": "node-1780390017532",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389714561",
+              "name": "19. Travel and Tourism",
+              "children": [
+                {
+                  "id": "node-1780390028035",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780389737263",
+              "name": "20. Science and Technology",
+              "children": [
+                {
+                  "id": "node-1780390040290",
+                  "name": "All Notes",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "node-1780389307340",
+          "name": "Literature",
+          "children": []
+        },
+        {
+          "id": "node-1780389328593",
+          "name": "Grammar",
+          "children": []
+        }
+      ]
+    }
+  ]
 }

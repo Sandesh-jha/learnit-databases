@@ -1,11 +1,11 @@
 {
   "courseId": "class-11---science",
-  "activeLevelsCount": 1,
+  "activeLevelsCount": 4,
   "levelNames": {
-    "level1": "Unit",
-    "level2": "Chapter",
-    "level3": "",
-    "level4": "",
+    "level1": "Subject",
+    "level2": "Branch",
+    "level3": "Unit",
+    "level4": "Chapter",
     "level5": ""
   }
 }
