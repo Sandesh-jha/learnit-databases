@@ -227,7 +227,132 @@
         {
           "id": "node-1780389307340",
           "name": "Literature",
-          "children": []
+          "children": [
+            {
+              "id": "node-1780390332917",
+              "name": "Short Stories",
+              "children": [
+                {
+                  "id": "node-1780390434402",
+                  "name": "1. The Selfish Giant",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390445738",
+                  "name": "2. The Oval Portrait",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390457279",
+                  "name": "3. God Sees the Truth but Waits",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390471743",
+                  "name": "4. The Wish",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390491155",
+                  "name": "5. Civil Peace",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390501291",
+                  "name": "6. Two Little Soldiers",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390514635",
+                  "name": "7. An Astrologer’s Day",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780390352491",
+              "name": "Poems",
+              "children": [
+                {
+                  "id": "node-1780390536679",
+                  "name": "1. Corona Says",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390549978",
+                  "name": "2. A Red, Red Rose",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390561756",
+                  "name": "3. All the World’s a Stage",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390573391",
+                  "name": "4. Who are you, little i?",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390585066",
+                  "name": "5. The Gift in Wartime",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780390364984",
+              "name": "Essays",
+              "children": [
+                {
+                  "id": "node-1780390615828",
+                  "name": "1. Sharing Tradition",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390628226",
+                  "name": "2. How to Live Before You Die",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390639551",
+                  "name": "3. What I Require from Life",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390654586",
+                  "name": "4. What is Poverty?",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390669583",
+                  "name": "5. Scientific Research is a Token of Humankind’s Survival",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "node-1780390378671",
+              "name": "One Act Plays",
+              "children": [
+                {
+                  "id": "node-1780390686151",
+                  "name": "1. Trifles",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390698926",
+                  "name": "2. A Sunny Morning",
+                  "children": []
+                },
+                {
+                  "id": "node-1780390712773",
+                  "name": "3. Refund",
+                  "children": []
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "node-1780389328593",
